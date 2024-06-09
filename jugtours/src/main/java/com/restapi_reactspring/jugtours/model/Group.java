@@ -2,9 +2,6 @@ package com.restapi_reactspring.jugtours.model;
 
 import java.util.Set;
 
-import org.springframework.boot.autoconfigure.security.SecurityProperties.User;
-import org.w3c.dom.events.Event;
-
 import jakarta.persistence.CascadeType;
 import jakarta.persistence.Entity;
 import jakarta.persistence.FetchType;
